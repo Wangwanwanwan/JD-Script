@@ -33,6 +33,7 @@
 ###### 关注公众号【TopStyle】
 ![TopStyle](https://gitee.com/curtinlv/img/raw/master/gzhcode.jpg)
 # 
+
     @Last Version: v1.1.0
 
     @Last Time: 2021-06-06 07:57
@@ -40,5 +41,8 @@
     @Author: Curtin
 #### **仅以学习交流为主，请勿商业用途、禁止违反国家法律 ，转载请留个名字，谢谢!** 
 
+```
+ql repo https://github.com/Wangwanwanwan/JD-Script.git
+```
 # End.
 [回到顶部](#readme)
